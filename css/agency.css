@@ -681,6 +681,16 @@ aside.clients img {
     margin: 50px auto;
 }
 
+
+section#doula {
+/*
+    background-image: url(../img/yellowbackgroundpattern_opaque.jpg);
+    background-position: center;
+    background-repeat: repeat;
+*/
+    background-color: #fffff0;
+}
+
 section#services {
     background-image: url(../img/grey_leaves.png);
     background-position: center;
@@ -755,8 +765,6 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
-    background-image: url(../img/grey_leaves.png);
-    background-repeat: repeat;
 }
 
 footer span.copyright {
