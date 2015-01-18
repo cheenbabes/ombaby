@@ -50,7 +50,8 @@ img.center {
     display: inline-block;
     vertical-align: middle;
 }
-.inline-header a, .inline-header h4{
+.inline-header a,
+.inline-header h4 {
     display: inline-block;
     vertical-align: middle;
 }
@@ -404,17 +405,11 @@ section h3.section-subheading {
 .timeline:before {
     content: "";
     position: absolute;
-    
     top: 0;
-    
     bottom: 0;
-    
     left: 20px;
-    
     width: 2px;
-    
     margin-left: 540px;
-    
     background-color: #f1f1f1;
 }
 .timeline>li {
